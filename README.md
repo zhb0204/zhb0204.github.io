@@ -1,4 +1,4 @@
- ### 使用条件
+﻿ ### 使用条件
 
 Jekyll 支持 Mac 、Windows、ubuntu 、Linux 操作系统                     
 Jekyll 需要依赖：Ruby、bundler
@@ -13,3 +13,6 @@ Jekyll 需要依赖：Ruby、bundler
 #### 获取博客模板
 
 > $ git clone https://github.com/myPirlo/myPirlo.github.io.git
+
+
+2018/8/02  更新
