@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "手把手搭建Vue+Express+mongoDB学生管理系统(一)"
+title: "跑通Node全栈(demo版本)(一)---Express安装"
 date: 2018-8-02 
-description: "手把手搭建Vue+Express+mongoD学生管理系统(一)"
+description: "跑通Node全栈(demo版本)(一)---Express安装"
 tag: Vue
 ---   
    
