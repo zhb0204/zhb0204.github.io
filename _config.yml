@@ -1,12 +1,12 @@
 # Basic
-title: 房东惠
+title: 张洪博
 subtitle: 个人博客
-description: 程序员绝对是世界上仅次于猫的迷人生物
+description: 
 # 头像里面的标题
-avatarTitle: myPirlo
+avatarTitle: 
 # 头像里面的描述
-avatarDesc: WEB前端 / 天蝎座
-url: "https://mypirlo.github.io/"
+avatarDesc: 17级在读/通信工程
+url: "https://zhb0204.github.io/"
 
 # Comment
 comment:
@@ -14,19 +14,8 @@ comment:
 
 # Social
 social: 
-    github: myPirlo
-    mail: 871235509@qq.com
-
-# 百度统计 
-# 使用博客模板请去掉或者更换 id 
-baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421  
-
-# Google Analytics
-# 使用博客模板请去掉或者更换 id
-ga:
-    id: UA-84134159-3   
-    host: auto  
+    github: zhb0204
+    mail: 993721504@qq.com
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
